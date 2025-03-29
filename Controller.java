@@ -1,6 +1,6 @@
 // Title: ShelfMaster
 // DIPROGLANG Project
-//
+// Created by John Harold D.
 // 
 import java.io.*;
 import java.util.*;
